@@ -2,4 +2,4 @@
 title: Notes 
 ---
 
-1. [[made for advertising]] 
+1. [[Made for Advertising]] 
