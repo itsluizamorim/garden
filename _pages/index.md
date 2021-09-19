@@ -6,10 +6,10 @@ permalink: /
 ---
 
 # Casa Amorim 🌱
-A collection of public notes and random thoughts by Luiz Amorim.
+*A collection of public notes and random thoughts by Luiz Amorim.*
 
 
-Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm passionate about Technology 🧑‍💻, Advertising 🎯, Music 🎧, and Sports 🏈 in no particular order.
+<p>Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm passionate about Technology 🧑‍💻, Advertising 🎯, Music 🎧, and Sports 🏈 in no particular order.</p>
 
 You’ve stumbled upon my notes. They’re kind of strange, so some context might help.
 
