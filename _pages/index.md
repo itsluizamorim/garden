@@ -5,15 +5,19 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Casa Amorim 🌱
+A collection of public notes and random thoughts by Luiz Amorim.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm passionate about Technology 🧑‍💻, Advertising 🎯, Music 🎧, and Sports 🏈 in no particular order.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+You’ve stumbled upon my notes. They’re kind of strange, so some context might help.
+
+These notes are mostly written for myself: they’re roughly my thinking environment. But I’m sharing them publicly as an experiment. If a note seems confusing or under-explained, it’s probably because I didn’t write it for you!
+
+📍 Seattle, WA (via 🇧🇷)
+
+⚠️ Opinions are my own
 
 <style>
   .wrapper {
