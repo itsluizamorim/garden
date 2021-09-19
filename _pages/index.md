@@ -6,19 +6,17 @@ permalink: /
 ---
 
 # Casa Amorim 🌱
-*A collection of public notes and random thoughts by Luiz Amorim.*
-
-
 <p style="padding: 3em 1em; background: #BEBEBE; border-radius: 4px;">
-Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm passionate about Technology 🧑‍💻, Advertising 🎯, Music 🎧, and Sports 🏈 in no particular order.
+A collection of public notes and random thoughts by Luiz Amorim.
 </p>
-	
+
+Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm passionate about Technology 🧑‍💻, Advertising 🎯, Music 🎧, and Sports 🏈 in no particular order.
+
 You’ve stumbled upon my notes. They’re kind of strange, so some context might help.
 
 These notes are mostly written for myself: they’re roughly my thinking environment. But I’m sharing them publicly as an experiment. If a note seems confusing or under-explained, it’s probably because I didn’t write it for you!
 
 📍 Seattle, WA (via 🇧🇷)
-
 ⚠️ Opinions are my own
 
 <style>
