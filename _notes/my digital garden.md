@@ -1,3 +1,5 @@
---- title: my digital garden ---
+---
+title: my digital garden
+---
 
 this sucks, really.
