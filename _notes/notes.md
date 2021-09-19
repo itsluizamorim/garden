@@ -1,5 +1,5 @@
 ---
-title: Notes 
+title: Notes
 ---
 
-1. [[Made for Advertising]] 
+1. [[Made for Advertising]]

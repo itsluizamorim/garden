@@ -1,4 +1,0 @@
----
-title: Made for Advertising
----
-
