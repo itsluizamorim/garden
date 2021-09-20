@@ -25,4 +25,4 @@ That's a very interesting topic that shows how many companies aren't customer ob
 
 
 #### References
-1. [Morning Brew]https://www.morningbrew.com/marketing/stories/2021/09/08/brands-still-playing-ball-clickbait-ad-sites-advertisings-roach-will-survive-bomb
+1. [Morning Brew](https://www.morningbrew.com/marketing/stories/2021/09/08/brands-still-playing-ball-clickbait-ad-sites-advertisings-roach-will-survive-bomb)
