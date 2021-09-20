@@ -1,7 +1,6 @@
 ---
 title: Made for Advertising
 ---
-Created: 2021-09-19 08:36
 
 That's a very interesting topic that shows how many companies aren't customer obssessed as they could be (or they promote to be). The cookie ecosystem (still around but not for much longer) puts quality brand ads on the long tail of small sites, but also on worthless or clickbait sites. This seems to be a well- known problem for Advertisers that no one wants to touch, given the revenue stream that it generates annually. While media companies, such as Xandr, focus on revenue streams over customer experience, these websites will keep afloat.
 
