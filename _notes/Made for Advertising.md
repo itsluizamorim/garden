@@ -25,4 +25,4 @@ That's an interesting topic. The cookie ecosystem (still around but not for much
 
 
 #### References
-1. https://www.morningbrew.com/marketing/stories/2021/09/08/brands-still-playing-ball-clickbait-ad-sites-advertisings-roach-will-survive-bomb
+1. [Morning Brew]https://www.morningbrew.com/marketing/stories/2021/09/08/brands-still-playing-ball-clickbait-ad-sites-advertisings-roach-will-survive-bomb
