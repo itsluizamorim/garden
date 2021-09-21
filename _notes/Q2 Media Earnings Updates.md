@@ -14,8 +14,8 @@ title: Q2 Media Earnings Updates
 
 **E-commerce domination extends beyond the U.S.**  
 -   Amazon rakes in more U.S. ecommerce sales than the next 9 biggest US ecommerce retailers [combined](https://content-na1.emarketer.com/amazon-ecommerce-sales-biggest-us-competitors?ecid=e0f301d3556c428fbf9bfc87aa62ce0d).
--   Retail ecommerce sales grew 25.7% worldwide ([eMarketer](https://content-na1.emarketer.com/countries-with-fastest-ecommerce-growth-2020?ecid=e0f301d3556c428fbf9bfc87aa62ce0d)) in 2020, led by Argentina (+100% YoY growth), Canada (+75%), Singapore (+73%), Mexico (+65%), Russia (+54%), Australia (+54%), Brazil (+50%) and UK (+46%).
--   Global e-commerce sales was 8% in Q1, double what it was during the same period in 2020. E-commerce sales contributed 50% of total revenue growth, a 20% YoY increase
+-   Retail ecommerce sales grew +25.7% worldwide ([eMarketer](https://content-na1.emarketer.com/countries-with-fastest-ecommerce-growth-2020?ecid=e0f301d3556c428fbf9bfc87aa62ce0d)) in 2020, led by Argentina (+100% YoY growth), Canada (+75%), Singapore (+73%), Mexico (+65%), Russia (+54%), Australia (+54%), Brazil (+50%) and UK (+46%).
+-   Global e-commerce sales was 8% in Q1, double what it was during the same period in 2020. E-commerce sales contributed 50% of total revenue growth, a +20% YoY increase.
 -   Canadian e-commerce sales have doubled their share of overall retail sales ([eMarketer](https://content-na1.emarketer.com/since-2019-ecommerce-sales-canada-have-nearly-doubled-their-share-of-overall-retail-sales?ecid=e0f301d3556c428fbf9bfc87aa62ce0d)) since 2019.
 -   Omni-channel grocery consumers shop more frequently and spend up to 20% more than in-store only consumers, according to [analysis](https://www.globenewswire.com/news-release/2021/06/23/2251987/0/en/Omnichannel-Grocery-Shoppers-Spend-Up-to-20-More.html) by Symphony RetailAI of 421 million baskets purchased in the U.S. and Europe. Of shoppers who made an online grocery purchase, 70% made another digital purchase during the same quarter. That’s up from 50% of shoppers who made a repeat purchase in Q1 of 2020.
 
