@@ -22,8 +22,8 @@ title: Q2 Media Earnings Updates
 ### Earnings Recap
 
 **Walmart**
--   E-commerce grocery sales grew 6% YoY in Q2. Total e-commerce sales expected to reach $67.4 billion in 2021, rising 26.4% YoY. Overall, Walmart will represent ~7.2% of U.S. e-commerce sales in 2021.
--   Walmart Connect advertising business nearly doubled in Q2, with active advertisers up 170%.
+-   E-commerce grocery sales grew +6% YoY in Q2. Total e-commerce sales expected to reach $67.4 billion in 2021, rising +26.4% YoY. Overall, Walmart will represent ~7.2% of U.S. e-commerce sales in 2021.
+-   Walmart Connect advertising business nearly doubled in Q2, with active advertisers up +170%.
 -   Over 200 million people shop at Walmart in-store and online each week for more than 150,000 different grocery products. Walmart’s AI uses that data to predict consumer behavior, preferences and needs.
 -   Announced plans to integrate its Walmart Marketplace 3rd party e-commerce platform, in-store fulfillment and pickup technologies with Adobe Commerce. Merchants will be able to leverage Walmart’s cloud-based services to offer pickup and delivery to customers.
 -   Launched new Walmart Data Ventures (WDV) unit aimed at developing and selling data & services for marketers. Historically, suppliers have had access to much of this intel through the retailer’s Retail Link data and analytics system.
