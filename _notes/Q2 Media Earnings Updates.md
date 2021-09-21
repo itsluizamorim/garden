@@ -67,11 +67,11 @@ title: Q2 Media Earnings Updates
 
 **Verizon Media → Yahoo! (again!)**
 -   Announced Catalina data partnership that enables advertisers to use shopping insights to optimize their campaigns as they run. Both companies are making their identity graphs interoperable, meaning the identities Verizon Media tracks using its post-cookie solution, ConnectID, and the IDs that Catalina has of shoppers can now be combined into a single, anonymized picture. This solution gives advertisers a stronger foundation for targeting and insights. ConnectID today reaches 148 million logged-in users spread across 400 million devices.
--   Q2 revenues were $2.1 billion, up 50% YoY and an increase of 13% from Q2 2019. Q2 results marked the third consecutive quarter of double-digit growth.
--   Demand Side Platform (DSP) for advertising delivered 152% YoY growth and was up 138% over Q2 2019.
--   Connected TV (CTV) ads business grew 145% YoY, helped by its strategic partnership with Vizio, under which Verizon Media gains DSP access to Vizio’s Inscape viewership data from 18 million smart TVs.
+-   Q2 revenues were $2.1 billion, up +50% YoY and an increase of +13% from Q2 2019. Q2 results marked the third consecutive quarter of double-digit growth.
+-   Demand Side Platform (DSP) for advertising delivered +152% YoY growth.
+-   Connected TV (CTV) ads business grew +145% YoY, helped by its strategic partnership with Vizio, under which Verizon Media gains DSP access to Vizio’s Inscape viewership data from 18 million smart TVs.
 -   Launching a Unified TV Report that uses Nielsen and Vizio data to give advertisers a view of how their linear TV and digital campaigns perform across Verizon Media’s DSP.
--   Claims it reaches 148 million deterministic logged in users across more than 240 million unique profiles and more than 400 million unique devices
+-   Claims it reaches 148 million deterministic logged in users across more than 240 million unique profiles and more than 400 million unique devices.
 
 **The Trade Desk**
 -   Q2 revenue was $280 million (up +100% YoY).
@@ -80,8 +80,8 @@ title: Q2 Media Earnings Updates
 -   Launched new venture capital arm called [TD7](https://investors.thetradedesk.com/news-releases/news-release-details/trade-desk-launches-td7-venture-capital-arm-invest-open-internet) will fund “technology innovators on the open internet.”
 
 **Roku**
--   Roku’s platform business (which includes advertising and distribution fees) exceeded half a billion dollars for the first time ever, capturing $532 million in Q2 (+117% YoY). Overall, Q2 revenue grew 81% to $645 million.
--   Average revenue per user increased 46% to $36.46, and ad impressions more than doubled YoY.
+-   Roku’s platform business (which includes advertising and distribution fees) exceeded half a billion dollars for the first time ever, capturing $532 million in Q2 (+117% YoY). Overall, Q2 revenue grew +81% to $645 million.
+-   Average revenue per user increased +46% to $36.46, and ad impressions more than doubled YoY.
 -   Announced 55.1 million active accounts (after adding 1.5 million in Q2).
 -   Viewership declined with 17.4 billion streaming hours in Q2 (down 1 billion hours QoQ).
 -   Total upfront commitments doubled over 2020 and included deals with all seven major holding companies. More than 42% of all upfront deals were with first-time advertisers.
