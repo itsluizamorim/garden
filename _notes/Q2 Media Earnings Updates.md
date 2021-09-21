@@ -59,8 +59,8 @@ title: Q2 Media Earnings Updates
 **Shopify**
 -   Announced TikTok partnership that allows Shopify merchants who have _TikTok For Business_ accounts to add a shopping tab to their profiles. Merchants can then build a mini-storefront – complete with prices, photos and an “add to favorites” button – that leads users to their website upon checkout by syncing their product catalogs.
 -   With 27% of store traffic in July 2021 coming from outside the U.S., Shopify is scaling up its international e-commerce operations with two recent developments:
--   **Shopify Markets**, a “global e-commerce hub” that will handle currency conversion and language translation for merchants opening their business to foreign markets.
--   Partnership with [Yotpo](https://www.yotpo.com/), a marketing service that handles direct-to-consumer (D2C) marketing like SMS, referrals, emails, loyalty and more for digital brands. 
+	-   **Shopify Markets**, a “global e-commerce hub” that will handle currency conversion and language translation for merchants opening their business to foreign markets.
+	-   Partnership with [Yotpo](https://www.yotpo.com/), a marketing service that handles direct-to-consumer (D2C) marketing like SMS, referrals, emails, loyalty and more for digital brands. 
 -   Acquired augmented reality (AR) startup Primer, which lets consumers visualize home improvements.
 -   Made Shop Pay – Shopify’s checkout flow that stores payment, shipping and billing data – available to non-Shopify merchants on FB/Instagram and Google. It is the first of Shopify’s products to be made available for those outside of its merchant program.
 -   Shopify will no longer take a commission on app development revenues for the first $1 million a developer makes annually. For more than $1 million, the commission has been cut from 20% to 15%. The decision aligns with similar fee cuts by other major tech companies this year and provides financial relief to many of Shopify’s developers.
