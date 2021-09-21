@@ -50,7 +50,7 @@ title: Q2 Media Earnings Updates
 -   European Commission opened a formal antitrust investigation into whether Google has abused its market position by favoring its own online advertising technology. This is the 4th major investigation into Google’s dominance by the European Commission in less than five years.
 
 **Instacart**
--   Accounts for 1 in 5 U.S. grocery e-commerce sales, but its share is decreasing. Saw sales of $23.42 billion in 2020 (+229.7% YoY) but expectations are that sales growth will grow by a comparatively small 11.3% in 2021.
+-   Accounts for 1 in 5 U.S. grocery e-commerce sales, but its share is decreasing. Saw sales of $23.42 billion in 2020 (+229.7% YoY) but expectations are that sales growth will grow by a comparatively small +11.3% in 2021.
 -   Hired former Facebook exec [Carolyn Everson](https://www.cnbc.com/2021/08/04/instacart-hires-carolyn-everson-former-facebook-exec.html) as President to oversee advertising and partnerships. Instacart also hired [Fidji Simo](https://www.cnbc.com/2021/07/08/instacart-new-ceo-fidji-simo-comes-from-facebook.html), former head of the Facebook app, as its new CEO.
 -   Announced partnership with Fabric that moves order picking and packing out of store aisles and into dedicated spaces.
 -   Announced new Ads API Partner program.
