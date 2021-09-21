@@ -38,12 +38,12 @@ title: Q2 Media Earnings Updates
 -   Acquired virtual fitting room startup [Zeekit](https://zeekit.me/) in an attempt to solve consumers’ most prevalent issues when shopping for clothes online: fit and unmet expectations. Zeekit’s technology allows consumers to virtually try on clothing before purchase by uploading pictures of themselves or choosing from a selection of models that best represent their body characteristics.
 
 **Google**
--   Q2 revenues reached $61.9 billion (up 62% YoY)
--   Advertising revenue increased 69% YoY to $50.4 billion in Q2
--   Search and “other” on-property ads generated $38.85 billion in revenue (up 68%)
--   Retail was the biggest growth driver in search ad revenue with $29.2 billion (+80% YoY)
--   Google Network programmatic revenue hit $7.6 billion (up 50% QoQ).
--   **YouTube** revenue was $7 billion (up 84% YoY), driven largely by brand advertisers. YouTube Shorts (a TikTok lookalike) surpassed 15 billion daily views.
+-   Q2 revenues reached $61.9 billion (up +62% YoY).
+-   Advertising revenue increased +69% YoY to $50.4 billion in Q2.
+-   Search and “other” on-property ads generated $38.85 billion in revenue (up +68%).
+-   Retail was the biggest growth driver in search ad revenue with $29.2 billion (+80% YoY).
+-   Google Network programmatic revenue hit $7.6 billion (up +50% QoQ).
+-   YouTube revenue was $7 billion (up +84% YoY), driven largely by brand advertisers. YouTube Shorts (a TikTok lookalike) surpassed 15 billion daily views.
 -   More than 120 million people watched YouTube on a smart TV in Q2, making CTV a critical growth driver for the company. 40% of YouTube ad impressions now occur on TV screens, up from 12% in 2019.
 -   YouTube is testing a cheaper subscription tier called “Premium Lite” that offers ad-free viewing without YT Premium’s other features like offline downloads or background playback. It is currently being piloted in Europe for ~60% of the price of a regular Premium subscription.
 -   YouTube deepened its social commerce reach with a live-stream shopping event that let small businesses showcase their products during _International Small Business Week_. Customers purchased products featured in the videos directly through YouTube.
