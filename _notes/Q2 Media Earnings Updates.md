@@ -1,10 +1,31 @@
 ---
 title: Q2 Media Earnings Updates
 ---
+**Table of Contents**
+
+- [[#Insights & Themes|Insights & Themes]]
+			- [[#The future of TV will be streamed.|The future of TV will be streamed.]]
+			- [[#E-commerce domination extends beyond the U.S.|E-commerce domination extends beyond the U.S.]]
+- [[#Earnings Recap|Earnings Recap]]
+			- [[#Walmart|Walmart]]
+			- [[#Google|Google]]
+			- [[#Instacart|Instacart]]
+			- [[#Shopify|Shopify]]
+			- [[#Verizon Media → Yahoo! (again!)|Verizon Media → Yahoo! (again!)]]
+			- [[#The Trade Desk|The Trade Desk]]
+			- [[#Roku|Roku]]
+			- [[#Disney|Disney]]
+			- [[#Spotify|Spotify]]
+			- [[#Pinterest|Pinterest]]
+			- [[#Twitter|Twitter]]
+			- [[#Facebook|Facebook]]
+			- [[#Snap|Snap]]
+			- [[#TikTok|TikTok]]
+
 
 ### Insights & Themes
 
-**The future of TV will be streamed.**
+###### The future of TV will be streamed.
 - Pandemic viewing behavior is here to stay. Worldwide TV streaming usage was up +13% in Q2 (source: Conviva). In June 2021, two-thirds of pay TV subs said they watched free VOD included with their subscription at least once a week, up from fewer than half in February 2020, according to Hub Entertainment Research report “Predicting the Pandemic.”
 - Primetime ratings for the Tokyo Olympic Games were down -42% from the 2016 Games. Cord-cutting, the 13-hour time difference and a difficult-to-follow schedule between Peacock and linear TV contributed to the low viewership. However, streaming behavior was up with 5.5 billion streaming minutes.
 - U.S. time spent watching advertising-supported video on demand (AVOD) increased +200% YoY from May 2020 to May 2021 ([TVision](https://www.tvisioninsights.com/resources/avod-increases-200-tvision-reports?utm_source=Triggermail&utm_medium=email&utm_campaign=eM%20briefing%20June%2028&utm_term=BII%20List%20DMedia%20ALL)). Time spent watching SVOD increased +100% whereas linear TV decreased -13% during same time period.
@@ -12,7 +33,7 @@ title: Q2 Media Earnings Updates
 - The line between ads and content continues to blur, with WarnerMedia, NBCU and Roku offering capabilities to develop brand-sponsored custom content for advertisers. WarnerMedia is launching a new content studio called “House of Max,” which will develop custom creative for HBO Max’s ad-supported tier (featuring popular characters from its HBO Max shows). NBCUniversal’s branded content studio focuses more on creating content that functions like commercials. In July, NBCU [launched](https://www.campaignlive.com/article/nbcuniversal-invites-brands-co-create-content/1721508?utm_source=Triggermail&utm_medium=email&utm_campaign=eM%20briefing%20Aug%205&utm_term=BII%20List%20DMedia%20ALL) four new series that invited brands to co-create content to run across all its properties. Roku’s branded content studio creates everything from video ads on behalf of brands to brand-sponsored TV shows. “Roku Recommends” is a weekly, 15-minute show surfacing top titles to stream across the thousands of channels on Roku, and is featured on The Roku Channel. The show includes 2 minutes of standard ad programming and native, host-read ads similar to those found in podcasts, as well as sponsored segments, with Walmart on board as the show’s debut sponsor.
 - There will be [117.8 million](https://e.insiderintelligence.com/click/24183436.43509/aHR0cHM6Ly9mb3JlY2FzdHMtbmExLmVtYXJrZXRlci5jb20vNWU1NTc3YzYxYmVlYjkwNTk4OWUzOTc1LzViNmM1ZDllNjVkZjQ5MGRjYzVjNGI5Zg/5e3891972ddf9c152d48a4d7C95328130) monthly U.S. podcast listeners this year.
 
-**E-commerce domination extends beyond the U.S.**  
+###### E-commerce domination extends beyond the U.S.
 -   Amazon rakes in more U.S. ecommerce sales than the next 9 biggest US ecommerce retailers [combined](https://content-na1.emarketer.com/amazon-ecommerce-sales-biggest-us-competitors?ecid=e0f301d3556c428fbf9bfc87aa62ce0d).
 -   Retail ecommerce sales grew +25.7% worldwide ([eMarketer](https://content-na1.emarketer.com/countries-with-fastest-ecommerce-growth-2020?ecid=e0f301d3556c428fbf9bfc87aa62ce0d)) in 2020, led by Argentina (+100% YoY growth), Canada (+75%), Singapore (+73%), Mexico (+65%), Russia (+54%), Australia (+54%), Brazil (+50%) and UK (+46%).
 -   Global e-commerce sales was 8% in Q1, double what it was during the same period in 2020. E-commerce sales contributed 50% of total revenue growth, a +20% YoY increase.
@@ -21,7 +42,7 @@ title: Q2 Media Earnings Updates
 
 ### Earnings Recap
 
-**Walmart**
+###### Walmart
 -   E-commerce grocery sales grew +6% YoY in Q2. Total e-commerce sales expected to reach $67.4 billion in 2021, rising +26.4% YoY. Overall, Walmart will represent ~7.2% of U.S. e-commerce sales in 2021.
 -   Walmart Connect advertising business nearly doubled in Q2, with active advertisers up +170%.
 -   Over 200 million people shop at Walmart in-store and online each week for more than 150,000 different grocery products. Walmart’s AI uses that data to predict consumer behavior, preferences and needs.
@@ -37,7 +58,7 @@ title: Q2 Media Earnings Updates
 -   Invested in drone flight services provider [DroneUp](https://www.droneup.com/) as part of an effort to enable drone delivery for online orders.
 -   Acquired virtual fitting room startup [Zeekit](https://zeekit.me/) in an attempt to solve consumers’ most prevalent issues when shopping for clothes online: fit and unmet expectations. Zeekit’s technology allows consumers to virtually try on clothing before purchase by uploading pictures of themselves or choosing from a selection of models that best represent their body characteristics.
 
-**Google**
+ ###### Google
 -   Q2 revenues reached $61.9 billion (up +62% YoY).
 -   Advertising revenue increased +69% YoY to $50.4 billion in Q2.
 -   Search and “other” on-property ads generated $38.85 billion in revenue (up +68%).
@@ -49,14 +70,14 @@ title: Q2 Media Earnings Updates
 -   YouTube deepened its social commerce reach with a live-stream shopping event that let small businesses showcase their products during _International Small Business Week_. Customers purchased products featured in the videos directly through YouTube.
 -   European Commission opened a formal antitrust investigation into whether Google has abused its market position by favoring its own online advertising technology. This is the 4th major investigation into Google’s dominance by the European Commission in less than five years.
 
-**Instacart**
+###### Instacart
 -   Accounts for 1 in 5 U.S. grocery e-commerce sales, but its share is decreasing. Saw sales of $23.42 billion in 2020 (+229.7% YoY) but expectations are that sales growth will grow by a comparatively small +11.3% in 2021.
 -   Hired former Facebook exec [Carolyn Everson](https://www.cnbc.com/2021/08/04/instacart-hires-carolyn-everson-former-facebook-exec.html) as President to oversee advertising and partnerships. Instacart also hired [Fidji Simo](https://www.cnbc.com/2021/07/08/instacart-new-ceo-fidji-simo-comes-from-facebook.html), former head of the Facebook app, as its new CEO.
 -   Announced partnership with Fabric that moves order picking and packing out of store aisles and into dedicated spaces.
 -   Announced new Ads API Partner program.
 -   Announced partnership with Kroger for 30-minute grocery delivery.
 
-**Shopify**
+###### Shopify
 -   Announced TikTok partnership that allows Shopify merchants who have _TikTok For Business_ accounts to add a shopping tab to their profiles. Merchants can then build a mini-storefront – complete with prices, photos and an “add to favorites” button – that leads users to their website upon checkout by syncing their product catalogs.
 -   With 27% of store traffic in July 2021 coming from outside the U.S., Shopify is scaling up its international e-commerce operations with two recent developments:
 	-   **Shopify Markets**, a “global e-commerce hub” that will handle currency conversion and language translation for merchants opening their business to foreign markets.
@@ -65,7 +86,7 @@ title: Q2 Media Earnings Updates
 -   Made Shop Pay – Shopify’s checkout flow that stores payment, shipping and billing data – available to non-Shopify merchants on FB/Instagram and Google. It is the first of Shopify’s products to be made available for those outside of its merchant program.
 -   Shopify will no longer take a commission on app development revenues for the first $1 million a developer makes annually. For more than $1 million, the commission has been cut from 20% to 15%. The decision aligns with similar fee cuts by other major tech companies this year and provides financial relief to many of Shopify’s developers.
 
-**Verizon Media → Yahoo! (again!)**
+###### Verizon Media → Yahoo! (again!)
 -   Announced Catalina data partnership that enables advertisers to use shopping insights to optimize their campaigns as they run. Both companies are making their identity graphs interoperable, meaning the identities Verizon Media tracks using its post-cookie solution, ConnectID, and the IDs that Catalina has of shoppers can now be combined into a single, anonymized picture. This solution gives advertisers a stronger foundation for targeting and insights. ConnectID today reaches 148 million logged-in users spread across 400 million devices.
 -   Q2 revenues were $2.1 billion, up +50% YoY and an increase of +13% from Q2 2019. Q2 results marked the third consecutive quarter of double-digit growth.
 -   Demand Side Platform (DSP) for advertising delivered +152% YoY growth.
@@ -73,20 +94,20 @@ title: Q2 Media Earnings Updates
 -   Launching a Unified TV Report that uses Nielsen and Vizio data to give advertisers a view of how their linear TV and digital campaigns perform across Verizon Media’s DSP.
 -   Claims it reaches 148 million deterministic logged in users across more than 240 million unique profiles and more than 400 million unique devices.
 
-**The Trade Desk**
+###### The Trade Desk
 -   Q2 revenue was $280 million (up +100% YoY).
 -   Connected TV (CTV) is the fastest-growing channel and growing as a percentage of overall revenue.
 -   Launched new DSP dashboard [Solimar](https://solimar.thetradedesk.com/) as a way for brands to directly upload first-party data to the platform. Solimar consolidates The Trade Desk’s data marketplace for targeting and measurement into a single interface, including data onboarding and identity resolution. TTD is using Solimar to position itself as the ad-buying platform of the open internet.
 -   Launched new venture capital arm called [TD7](https://investors.thetradedesk.com/news-releases/news-release-details/trade-desk-launches-td7-venture-capital-arm-invest-open-internet) will fund “technology innovators on the open internet.”
 
-**Roku**
+###### Roku
 -   Roku’s platform business (which includes advertising and distribution fees) exceeded half a billion dollars for the first time ever, capturing $532 million in Q2 (+117% YoY). Overall, Q2 revenue grew +81% to $645 million.
 -   Average revenue per user increased +46% to $36.46, and ad impressions more than doubled YoY.
 -   Announced 55.1 million active accounts (after adding 1.5 million in Q2).
 -   Viewership declined with 17.4 billion streaming hours in Q2 (down 1 billion hours QoQ).
 -   Total upfront commitments doubled over 2020 and included deals with all seven major holding companies. More than 42% of all upfront deals were with first-time advertisers.
 
-**Disney**
+###### Disney
 -   174 million subscriptions across Disney+, ESPN+ and Hulu.
 -   Disney+ reported 103.6 million paid subscribers by end of Q2. Average monthly revenue per user dipped +29% YoY to $3.99.
 -   Disney saw more than [40%](https://adage.com/article/special-report-tv-upfront/disney-sees-more-40-upfront-ad-commitments-go-streaming/2343411?utm_source=ad-age-news-alerts&utm_medium=email&utm_campaign=20210614&utm_content=hero-headline) of its total ad commitments in this year’s video upfronts go toward digital and streaming.
@@ -94,7 +115,7 @@ title: Q2 Media Earnings Updates
 -   Hulu raised the price of its ad-supported and ad-free packages by $1 per month to $6.99 and $12.99. The Disney bundle app, which includes Disney+, ESPN+ and Hulu + Live TV now costs $1 more than the ad-free Hulu tier.
 -   Reported a double-digit increase in CPMs across all broadcast day parts, cable and all major sports, which includes College Football, NFL and NBA, as well as a double-digit increase in volume.
 
-**Spotify**
+###### Spotify
 -   Q2 revenue was $2.75 billion (up +16% YoY).
 -   Reported slower than anticipated growth in Monthly Active Users (MAUs) with 365 million in Q2 (+22% YoY).
 -   At the end of Q2, Spotify had 2.9 million podcasts on the platform (up from 2.6 million in Q1). Podcast share of overall consumption hours reached an all-time high.
@@ -104,13 +125,13 @@ title: Q2 Media Earnings Updates
 -   Acquired [Podz](https://techcrunch.com/2021/06/17/spotify-acquires-podz-a-podcast-discovery-app/), developer of an auto-generated audio newsfeed for podcast discovery.
 -   Within three months of launch, 60% of Spotify’s U.S. podcast advertiser base is advertising with the [Spotify Audience Network](https://ads.spotify.com/en-US/news-and-insights/2021-podcast-ads-announcements/). This audio-first advertising marketplace makes it possible for advertisers to connect with listeners across a broad range of content on- and off-Spotify. Audience-based targeting tools include demographic targeting, geographic targeting and audience segment targeting. Megaphone podcast publishers who have opted in to the network have seen meaningful improvement in their ability to monetize, including CPMs increase by +40% and the number of unique advertisers doubling.
 
-**Pinterest**
+###### Pinterest
 -   Q2 revenue was $613 million (+125% YoY).
 -   Monthly active users dropped -5% to 454 million.
 -   Announced new set of tools to let content creators make money off shoppable pins.
 -   The Media Rating Council (MRC) denied accreditation for Pinterest’s self-provided video metrics, including video ad impressions and related viewability metrics. The MRC determined that Pinterest’s method for counting video ad impressions and ad delivery did not meet industry standard minimum requirements. Pinterest had the choice to restart the MRC auditing process over but instead decided to withdraw the audit of its self-reported video ad impressions metrics. MRC certification matters because it enables advertisers to compare ad impressions in a standardized way across platforms.
 
-**Twitter**
+###### Twitter
 -   Q2 advertising revenue totaled $1.05 billion (up +87% YoY).
 -   U.S. ad revenue was $562 million.
 -   U.S. user base declined by -1 million QoQ.
@@ -118,7 +139,7 @@ title: Q2 Media Earnings Updates
 -   NFL agreed to broadcast exclusive content on Twitter Spaces as part of new rights arrangement.
 -   Signed contract with the MRC to begin a “pre-assessment process” toward evaluating the platform’s compliance with brand safety standards measured by the industry metrics accreditation body, such as those related to ads served on Twitter’s timeline, user profiles, search results and in its Amplify pre-roll ad product.
 
-**Facebook**
+###### Facebook
 -   Posted $29 billion in revenue in Q2 (+56% YoY).
 -   Daily users across Facebook, Instagram and WhatsApp increased to 2.76 billion (+12% YoY).
 -   Acquired virtual reality game studio _BigBox VR_, maker of Fortnite-like “Population: One.” BigBox VR will become a part of the Oculus Studios family.
@@ -135,7 +156,7 @@ title: Q2 Media Earnings Updates
 	3.  Instagram and AI-based Visual Search, enabling people to upload their own photos to find similar items
 -   Committed to spend over $1 billion to reward content creators through 2022.
 
-**Snap**
+###### Snap
 -   Q2 revenue increased +116% YoY to $982 million.
 -   Daily active users rose +23% to 293 million.
 -   _Spotlight_ (a TikTok clone) daily active users grew +49% in Q2, while average daily content submissions more than tripled.
@@ -143,7 +164,7 @@ title: Q2 Media Earnings Updates
 -   Announced a new music licensing agreement with Universal Music Group that makes UMG’s recorded music catalog available in Snapchat’s Sounds tool, including search and curated playlists. UMG is also developing AR music Snapchat Lenses featuring its artists.
 -   New HBO Max partnership will feature free episode previews on Snapchat.
 
-**TikTok**
+###### TikTok
 -   TikTok was the most downloaded non-gaming app worldwide in July 2021 with 63 million installs (source: [Sensor Tower](https://sensortower.com/blog/top-apps-worldwide-july-2021-by-downloads)).
 -   Ad prices are soaring. A homepage takeover in the U.S. will cost $1.4 million in Q3 and expectations are that it will be pricier in Q4.
 -   Launched brand lift analytics tool to help advertisers measure and optimize ad performance. Kantar will serve as TikTok’s third-party measurement partner. [[blog post](https://newsroom.tiktok.com/en-us/introducing-tiktok-brand-lift-study-to-measure-the-moments-that-matter-most)]
