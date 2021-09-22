@@ -88,33 +88,32 @@ title: Q2 Media Earnings Updates
 
 **Disney**
 -   174 million subscriptions across Disney+, ESPN+ and Hulu.
--   Reported ~159 million total subscribers across its streaming services in Q2 (Disney+, Hulu, ESPN+).
--   Disney+ reported 103.6 million paid subscribers by end of Q2. Average monthly revenue per user dipped 29% YoY to $3.99.
+-   Disney+ reported 103.6 million paid subscribers by end of Q2. Average monthly revenue per user dipped +29% YoY to $3.99.
 -   Disney saw more than [40%](https://adage.com/article/special-report-tv-upfront/disney-sees-more-40-upfront-ad-commitments-go-streaming/2343411?utm_source=ad-age-news-alerts&utm_medium=email&utm_campaign=20210614&utm_content=hero-headline) of its total ad commitments in this year’s video upfronts go toward digital and streaming.
 -   Hulu is expected to generate [$3 billion](https://variety.com/2021/tv/news/disney-wraps-upfront-tv-advertising-streaming-1234996146/) in ad dollars, comparable with Disney’s linear TV networks.
 -   Hulu raised the price of its ad-supported and ad-free packages by $1 per month to $6.99 and $12.99. The Disney bundle app, which includes Disney+, ESPN+ and Hulu + Live TV now costs $1 more than the ad-free Hulu tier.
 -   Reported a double-digit increase in CPMs across all broadcast day parts, cable and all major sports, which includes College Football, NFL and NBA, as well as a double-digit increase in volume.
 
 **Spotify**
--   Q2 revenue was $2.75 billion (up 16% YoY).
+-   Q2 revenue was $2.75 billion (up +16% YoY).
 -   Reported slower than anticipated growth in Monthly Active Users (MAUs) with 365 million in Q2 (+22% YoY).
 -   At the end of Q2, Spotify had 2.9 million podcasts on the platform (up from 2.6 million in Q1). Podcast share of overall consumption hours reached an all-time high.
--   Premium subscribers grew 20% to 165 million in Q2.
--   Testing a new free ad-based tier called **_Spotify Plus_** that costs $0.99/mo. This new low-cost subscription tier combines elements of its existing free and premium tiers. The plan still features ads but does not impose any limits on the number of tracks you can skip per hour. Users can also pick specific songs they want to listen to.
+-   Premium subscribers grew +20% to 165 million in Q2.
+-   Testing a new ad-based tier called _Spotify Plus_ that costs $0.99/mo. This new low-cost subscription tier combines elements of its existing free and premium tiers. The plan still features ads but does not impose any limits on the number of tracks you can skip per hour. Users can also pick specific songs they want to listen to.
 -   Launched [Spotify Greenroom](https://techcrunch.com/2021/06/16/spotify-launches-its-live-audio-app-and-clubhouse-rival-spotify-greenroom/?utm_source=Triggermail&utm_medium=email&utm_campaign=eM%20briefing%20June%2017&utm_term=BII%20List%20DMedia%20ALL), a separate mobile app that allows Spotify users to join or host live audio rooms. The app is built on source code from _Locker Room_, the sport-focused live audio company that Spotify acquired in March. Native recording functionality allows users to save their audio conversations and then distribute them as podcasts. The ability to convert live audio room discussions into podcasts helps distinguish it from other live audio solutions offered by Clubhouse, Twitter Spaces and Facebook.
 -   Acquired [Podz](https://techcrunch.com/2021/06/17/spotify-acquires-podz-a-podcast-discovery-app/), developer of an auto-generated audio newsfeed for podcast discovery.
 -   Within three months of launch, 60% of Spotify’s U.S. podcast advertiser base is advertising with the [Spotify Audience Network](https://ads.spotify.com/en-US/news-and-insights/2021-podcast-ads-announcements/). This audio-first advertising marketplace makes it possible for advertisers to connect with listeners across a broad range of content on- and off-Spotify. Audience-based targeting tools include demographic targeting, geographic targeting and audience segment targeting. Megaphone podcast publishers who have opted in to the network have seen meaningful improvement in their ability to monetize, including CPMs increase by +40% and the number of unique advertisers doubling.
 
 **Pinterest**
 -   Q2 revenue was $613 million (+125% YoY).
--   Monthly active users dropped 5% to 454 million.
+-   Monthly active users dropped -5% to 454 million.
 -   Announced new set of tools to let content creators make money off shoppable pins.
 -   The Media Rating Council (MRC) denied accreditation for Pinterest’s self-provided video metrics, including video ad impressions and related viewability metrics. The MRC determined that Pinterest’s method for counting video ad impressions and ad delivery did not meet industry standard minimum requirements. Pinterest had the choice to restart the MRC auditing process over but instead decided to withdraw the audit of its self-reported video ad impressions metrics. MRC certification matters because it enables advertisers to compare ad impressions in a standardized way across platforms.
 
 **Twitter**
--   Q2 advertising revenue totaled $1.05 billion (up 87% YoY).
+-   Q2 advertising revenue totaled $1.05 billion (up +87% YoY).
 -   U.S. ad revenue was $562 million.
--   U.S. user base declined by 1 million QoQ.
+-   U.S. user base declined by -1 million QoQ.
 -   Introduced new e-commerce feature that allows users to buy products directly from the profiles of businesses. This new Shop Module, which is being launched as a pilot in the U.S., lets brands put a scrollable showcase of products at the top of their Twitter profile. Purchases can be completed from within the Twitter app.
 -   NFL agreed to broadcast exclusive content on Twitter Spaces as part of new rights arrangement.
 -   Signed contract with the MRC to begin a “pre-assessment process” toward evaluating the platform’s compliance with brand safety standards measured by the industry metrics accreditation body, such as those related to ads served on Twitter’s timeline, user profiles, search results and in its Amplify pre-roll ad product.
@@ -129,7 +128,7 @@ title: Q2 Media Earnings Updates
 -   Instagram leveraged a number of big-name celebrities and creators for its first ever “[10+ Days of Live Shopping](https://www.facebook.com/367152833370567/posts/4331547176931093)” event in September. Users able to purchase exclusive products from their favorite artists/creators by opening the app’s Shop tab and accessing the Instagram Live feature. Celebs include Selena Gomez, Kacey Musgraves and Olivia Palermo. Participating brands include Peloton, Aveda and Outdoor Voices.
 -   Introduced smart glasses in partnership with Ray-Ban that allow users to record what they are seeing as both photos and videos, as well as take calls and listen to music. Ray-Ban Stories is Facebook’s answer to Snapchat Spectacles.
 -   Began testing ads in Oculus Quest VR headsets. However, within a week gaming partner _Resolution Games_ pulled the ads after hearing negative feedback from players.
--   Expanding its social commerce feature **Shops**, bringing the feature to WhatsApp and adding new targeting capabilities and augmented reality (AR) shopping. Shops get more than **300 million monthly visitors** to over **1.2 million** monthly active storefronts.
+-   Expanding its social commerce feature _Shops_, bringing the feature to WhatsApp and adding new targeting capabilities and augmented reality (AR) shopping. Shops get more than 300 million monthly visitors to over 1.2 million monthly active storefronts.
 -   Announced three e-commerce updates:
 	1.  Shops on WhatsApp and Marketplace, allowing customers to chat with a business before buying something
 	2.  Shop Ads, aimed at providing a more individualized shopping experience, including AR try-on experiences
@@ -137,19 +136,18 @@ title: Q2 Media Earnings Updates
 -   Committed to spend over $1 billion to reward content creators through 2022.
 
 **Snap**
--   Q2 revenue increased 116% YoY to $982 million.
--   Daily active users rose 23% to 293 million.
--   **Spotlight** (a TikTok clone) daily active users grew 49% in Q2, while average daily content submissions more than tripled.
+-   Q2 revenue increased +116% YoY to $982 million.
+-   Daily active users rose +23% to 293 million.
+-   _Spotlight_ (a TikTok clone) daily active users grew +49% in Q2, while average daily content submissions more than tripled.
 -   Launched _Creative Kit for Spotlight_, enabling 3rd party apps to publish directly to Spotlight.
 -   Announced a new music licensing agreement with Universal Music Group that makes UMG’s recorded music catalog available in Snapchat’s Sounds tool, including search and curated playlists. UMG is also developing AR music Snapchat Lenses featuring its artists.
 -   New HBO Max partnership will feature free episode previews on Snapchat.
 
 **TikTok**
--   TikTok was the most downloaded non-gaming app worldwide in July 2021 with 63 million installs. (source: [Sensor Tower](https://sensortower.com/blog/top-apps-worldwide-july-2021-by-downloads))
+-   TikTok was the most downloaded non-gaming app worldwide in July 2021 with 63 million installs (source: [Sensor Tower](https://sensortower.com/blog/top-apps-worldwide-july-2021-by-downloads)).
 -   Ad prices are soaring. A homepage takeover in the U.S. will cost $1.4 million in Q3 and expectations are that it will be pricier in Q4.
 -   Launched brand lift analytics tool to help advertisers measure and optimize ad performance. Kantar will serve as TikTok’s third-party measurement partner. [[blog post](https://newsroom.tiktok.com/en-us/introducing-tiktok-brand-lift-study-to-measure-the-moments-that-matter-most)]
--   Announced [Small Biz Block Party](https://newsroom.tiktok.com/en-us/small-biz-block-party), a 20 event virtual workshop to help small- and medium-sized businesses reach new audiences and grow their companies.
+-   Announced [Small Biz Block Party](https://newsroom.tiktok.com/en-us/small-biz-block-party), a 20- event virtual workshop to help small- and medium-sized businesses reach new audiences and grow their companies.
 -   Introduced [Spark Ads](https://www.tiktok.com/business/en/blog/spark-ads-authentic-way-brands-elevate-native-popular-content), a new tool that lets brands sponsor trending organic content.
 -   Testing a new feature, _TikTok Stories_, enabling users to post videos that disappear in 24 hours.
--   75% of users discover new artists on the platform and 63% said they heard new music on it. 72% of music streaming listeners associate certain songs with TikTok.
--   Reported 67% of users say they prefer videos from brands that use popular or trending songs, and 65% want to see brands using original sounds.
+-   72% of music streaming listeners associate certain songs with TikTok.
