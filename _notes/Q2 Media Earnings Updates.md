@@ -36,7 +36,7 @@ title: Q2 Media Earnings Updates
 -   Invested in drone flight services provider [DroneUp](https://www.droneup.com/) as part of an effort to enable drone delivery for online orders.
 -   Acquired virtual fitting room startup [Zeekit](https://zeekit.me/) in an attempt to solve consumers’ most prevalent issues when shopping for clothes online: fit and unmet expectations. Zeekit’s technology allows consumers to virtually try on clothing before purchase by uploading pictures of themselves or choosing from a selection of models that best represent their body characteristics.
 
- #### Google
+#### Google
 -   Q2 revenues reached $61.9 billion (up +62% YoY).
 -   Advertising revenue increased +69% YoY to $50.4 billion in Q2.
 -   Search and “other” on-property ads generated $38.85 billion in revenue (up +68%).
