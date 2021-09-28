@@ -143,7 +143,6 @@ title: Q2 Media Earnings Updates
 -   New HBO Max partnership will feature free episode previews on Snapchat.
 
 #### TikTok
--   TikTok was the most downloaded non-gaming app worldwide in July 2021 with 63 million installs (source: [Sensor Tower](https://sensortower.com/blog/top-apps-worldwide-july-2021-by-downloads)).
 -   Ad prices are soaring. A homepage takeover in the U.S. will cost $1.4 million in Q3 and expectations are that it will be pricier in Q4.
 -   Launched brand lift analytics tool to help advertisers measure and optimize ad performance. Kantar will serve as TikTok’s third-party measurement partner. [[blog post](https://newsroom.tiktok.com/en-us/introducing-tiktok-brand-lift-study-to-measure-the-moments-that-matter-most)]
 -   Announced [Small Biz Block Party](https://newsroom.tiktok.com/en-us/small-biz-block-party), a 20- event virtual workshop to help small- and medium-sized businesses reach new audiences and grow their companies.
