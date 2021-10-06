@@ -4,7 +4,7 @@ title: My Tepper's Essay - Class of 2024
 
 I’ve finally found myself! I guess I’m [[Made for Advertising]], and it’s time to take a next step in my career by applying to Tepper Business School at Carnegie Mellon University (CMU).
 
-I’ve always been a self-taught person, and learned most of the things on my own, of which I feel that actually made me develop my tactical side, but not too much on my leadership and strategic side. Joining CMU’s community will allow me to develop my leadership side and amplify my impact on the world.
+I’ve always been a self-taught person, and learned most of the things on my own, of which I feel that actually developed my tactical side, but not too much on my leadership side. Joining CMU’s community will allow me to develop my leadership side and amplify my impact on the world.
 
 Writing the essay below as part of the application was a wonderful exercise of self-reflection, and I decided to make it public.
 
