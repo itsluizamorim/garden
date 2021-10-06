@@ -3,7 +3,9 @@ title: My Tepper's Essay - Class of 2024
 ---
 
 <p style="padding: 10px; border: 1px solid grey;">
+<font size="-1">
 I’ve finally found myself! I guess I’m [[Made for Advertising]], and it’s time to take a next step in my career by applying to Tepper Business School at Carnegie Mellon University (CMU). I’ve always been a self-taught person, and learned most of the things on my own, of which I feel that actually developed my tactical side, but not too much on my leadership side. Joining CMU’s community will allow me to develop my leadership side and amplify my impact on the world. Writing the essay below as part of the application was a wonderful exercise of self-reflection, and I decided to make it public.
+</font>
 </p>
 
 _**The Tepper community is dynamic and unique. Each community member’s individual journey has shaped them into classmates who are collaborative, supportive and inclusive. Describe how you have overcome adversity during your journey. What did you learn about yourself and how has that shaped who you are?**_
