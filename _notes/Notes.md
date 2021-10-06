@@ -2,5 +2,6 @@
 title: Notes
 ---
 
-1. [[Q2 Media Earnings Updates]]
-2. [[Made for Advertising]]
+1. [[My Tepper's Essay - Class of 2024]]
+2. [[Q2 Media Earnings Updates]]
+3. [[Made for Advertising]]
