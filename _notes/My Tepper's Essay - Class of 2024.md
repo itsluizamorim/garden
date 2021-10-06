@@ -2,8 +2,8 @@
 title: My Tepper's Essay - Class of 2024
 ---
 
-**_The Tepper community is dynamic and unique. Each community member’s individual journey has shaped them into classmates who are collaborative, supportive and inclusive. Describe how you have overcome adversity during your journey. What did you learn about yourself and how has that shaped who you are?__
-**
+_**The Tepper community is dynamic and unique. Each community member’s individual journey has shaped them into classmates who are collaborative, supportive and inclusive. Describe how you have overcome adversity during your journey. What did you learn about yourself and how has that shaped who you are?**_
+
 
 Hi, I’m Luiz. I currently live in Seattle, Washington, and work as a Senior Program Manager for Amazon Ads. I own critical advertising business functions by providing design and operational product requirements guidance, enabling a common business understanding of product growth and business opportunity, and managing user acceptance testing while driving product issue resolution.
 
