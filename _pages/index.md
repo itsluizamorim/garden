@@ -14,7 +14,8 @@ You’ve stumbled upon my [[notes]]. They’re kind of strange, so some context 
 These notes are mostly written for myself: they’re roughly my thinking environment. But I’m sharing them publicly as an experiment. If a note seems confusing or under-explained, it’s probably because I didn’t write it for you!
 
 📍 Seattle, WA (via 🇧🇷)
-⚠️ Opinions are my own
+
+⚠️ Opinions are my own.
 
 <style>
   .wrapper {
