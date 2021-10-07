@@ -1,5 +1,5 @@
 ---
-title: My Tepper's Essay - Class of 2024
+title: My Tepper's Essay
 ---
 
 <p style="padding: 10px; border: 1px solid grey;">
