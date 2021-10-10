@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Casa Amorim 🌱
+# Casa Amorim
 
 Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm passionate about Technology 🧑‍💻, Advertising 🎯, Music 🎧, and Sports 🏈 in no particular order.
 
