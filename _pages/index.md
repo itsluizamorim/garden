@@ -6,15 +6,16 @@ permalink: /
 ---
 
 # Casa Amorim
+`A personal blog by Luiz Amorim.` 
 
-Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm passionate about Technology 🧑‍💻, Advertising 🎯, Music 🎧, and Sports 🏈 in no particular order.
+Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and you’ve stumbled upon my personal blog. This site is a spot for me to put everything else, should I choose. I don’t expect to post here very frequently, but I want it to exist.
 
-You’ve stumbled upon my [[notes]]. They’re kind of strange, so some context might help.
 
-These notes are mostly written for myself: they’re roughly my thinking environment. But I’m sharing them publicly as an experiment. If a note seems confusing or under-explained, it’s probably because I didn’t write it for you!
+→ [[Posts]]
+
+
 
 📍 Seattle, WA (via 🇧🇷)
-
 ⚠️ Opinions are my own.
 
 <style>
