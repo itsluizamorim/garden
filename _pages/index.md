@@ -8,7 +8,9 @@ permalink: /
 # Casa Amorim
 `A personal blog by Luiz Amorim.` 
 
-Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and you’ve stumbled upon my personal blog. This site is a spot for me to put everything else, should I choose. I don’t expect to post here very frequently, but I want it to exist.
+Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and you’ve stumbled upon my personal blog. :)
+
+This site is a spot for me to put everything else, should I choose. I don’t expect to post here very frequently, but I want it to exist.
 
 
 → [[Posts]]
@@ -16,6 +18,7 @@ Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and you’
 
 
 📍 Seattle, WA (via 🇧🇷)
+
 ⚠️ Opinions are my own.
 
 <style>
