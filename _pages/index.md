@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Casa Amorim
-`A personal blog by Luiz Amorim.` 
+`by Luiz Amorim.` 
 
 Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and you’ve stumbled upon my website. ☺️
 
