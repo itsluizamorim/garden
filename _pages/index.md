@@ -6,11 +6,9 @@ permalink: /
 ---
 
 # My Cascadia Journey 🌲
-`by Luiz Amorim.` 
+`A personal blog written by ChatGTP, and edited by Luiz Amorim.` 
 
-Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and you’ve stumbled upon *My Cascadia Journey*, a personal blog describing my experience living with my family in the Cascadia. ☺️
-
-[[Posts]]
+Hi there! I'm [Luiz Amorim](https://www.linkedin.com/in/luizamorim/), and I'm currently exploring the beauty of the [[Pacific Northwest]] - from the sparkling waters of [[Bellingham Bay]] to the lush forests of the Chuckanut Mountains.
 
 📍 Bellingham, WA (via 🇧🇷)
 ⚠️ Opinions are my own.
