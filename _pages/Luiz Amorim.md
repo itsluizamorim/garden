@@ -12,4 +12,4 @@ We currently reside in Bellingham, WA and have been exploring all the PNW has to
 
 I am excited to share my experiences and adventures in the PNW with you through this journal. From the best hiking trails to the best places to eat, I hope to give you a glimpse into our new home and all it has to offer. Thank you for following along on our journey!
 
-Luiz
+LA.
